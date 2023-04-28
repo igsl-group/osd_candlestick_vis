@@ -1,0 +1,23 @@
+{
+  "name": "candlestick-chart",
+  "version": "2.6.0.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "scripts": {
+    "build": "yarn plugin-helpers build",
+    "plugin-helpers": "node ../../scripts/plugin_helpers",
+    "osd": "node ../../scripts/osd",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "plotly.js-dist": "^2.20.0",
+    "react-plotly.js": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/react-plotly.js": "^2.6.0",
+    "cypress": "^12.10.0",
+    "eslint": "^6.8.0"
+  }
+}

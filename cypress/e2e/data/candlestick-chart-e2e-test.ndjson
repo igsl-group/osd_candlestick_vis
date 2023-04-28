@@ -1,0 +1,192 @@
+{"index":{}}
+{ "@timestamp": "2023-03-16T02:00:00.000Z", "price": 127.48, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-16T03:00:00.000Z", "price": 128.88, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-16T04:00:00.000Z", "price": 126.91, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-16T07:00:00.000Z", "price": 127.83, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-17T02:00:00.000Z", "price": 127.62, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-17T03:00:00.000Z", "price": 128.77, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-17T04:00:00.000Z", "price": 127.44, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-17T07:00:00.000Z", "price": 128.72, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-20T02:00:00.000Z", "price": 128.47, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-20T03:00:00.000Z", "price": 129.02, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-20T04:00:00.000Z", "price": 128.33, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-20T07:00:00.000Z", "price": 128.44, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-21T02:00:00.000Z", "price": 128.61, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-21T03:00:00.000Z", "price": 129.5, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-21T04:00:00.000Z", "price": 128.05, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-21T07:00:00.000Z", "price": 129.5, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-22T02:00:00.000Z", "price": 130.02, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-22T03:00:00.000Z", "price": 133, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-22T04:00:00.000Z", "price": 129.66, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-22T07:00:00.000Z", "price": 133, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-23T02:00:00.000Z", "price": 132.94, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-23T03:00:00.000Z", "price": 133.60, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-23T04:00:00.000Z", "price": 131.16, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-23T07:00:00.000Z", "price": 132.16, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-24T02:00:00.000Z", "price": 131.55, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-24T03:00:00.000Z", "price": 131.60, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-24T04:00:00.000Z", "price": 128.14, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-24T07:00:00.000Z", "price": 128.78, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-27T02:00:00.000Z", "price": 128.78, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-27T03:00:00.000Z", "price": 130.86, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-27T04:00:00.000Z", "price": 126.61, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-28T07:00:00.000Z", "price": 130.41, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-28T02:00:00.000Z", "price": 130, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-28T03:00:00.000Z", "price": 130.57, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-28T04:00:00.000Z", "price": 128.24, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-28T07:00:00.000Z", "price": 128.46, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-29T02:00:00.000Z", "price": 129.25, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-29T03:00:00.000Z", "price": 130.27, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-29T04:00:00.000Z", "price": 128.30, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-29T07:00:00.000Z", "price": 129.08, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-30T02:00:00.000Z", "price": 128.96, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-30T03:00:00.000Z", "price": 129.52, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-30T04:00:00.000Z", "price": 128.08, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-30T07:00:00.000Z", "price": 129.36, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-31T02:00:00.000Z", "price": 129.1, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-31T03:00:00.000Z", "price": 129.55, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-31T04:00:00.000Z", "price": 128.32, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-03-31T07:00:00.000Z", "price": 128.53, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-03T02:00:00.000Z", "price": 128.58, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-03T03:00:00.000Z", "price": 128.75, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-03T04:00:00.000Z", "price": 125.76, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-03T07:00:00.000Z", "price": 126.41, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-04T02:00:00.000Z", "price": 128.39, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-04T03:00:00.000Z", "price": 129.36, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-04T04:00:00.000Z", "price": 126.26, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-04T07:00:00.000Z", "price": 126.59, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-05T02:00:00.000Z", "price": 127.95, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-05T03:00:00.000Z", "price": 129.57, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-05T04:00:00.000Z", "price": 125.05, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-05T07:00:00.000Z", "price": 127.13, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-06T02:00:00.000Z", "price": 126.41, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-06T03:00:00.000Z", "price": 127.22, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-06T04:00:00.000Z", "price": 123.8, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-06T07:00:00.000Z", "price": 124.51, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-07T02:00:00.000Z", "price": 124.75, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-07T03:00:00.000Z", "price": 124.76, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-07T04:00:00.000Z", "price": 122.11, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-07T07:00:00.000Z", "price": 122.23, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-10T02:00:00.000Z", "price": 122.3, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-10T03:00:00.000Z", "price": 124.9, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-10T04:00:00.000Z", "price": 121.62, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-10T07:00:00.000Z", "price": 124.44, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-11T02:00:00.000Z", "price": 124.4, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-11T03:00:00.000Z", "price": 125.4, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-11T04:00:00.000Z", "price": 122.58, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-11T07:00:00.000Z", "price": 123.58, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-12T02:00:00.000Z", "price": 123.87, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-12T03:00:00.000Z", "price": 124.94, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-12T04:00:00.000Z", "price": 122.87, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-12T07:00:00.000Z", "price": 124.94, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-13T02:00:00.000Z", "price": 125.9, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-13T03:00:00.000Z", "price": 127.32, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-13T04:00:00.000Z", "price": 125.65, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-13T07:00:00.000Z", "price": 127.04, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-14T02:00:00.000Z", "price": 127, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-14T03:00:00.000Z", "price": 129.16, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-14T04:00:00.000Z", "price": 126.37, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-14T07:00:00.000Z", "price": 128.47, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-17T02:00:00.000Z", "price": 128.75, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-17T03:00:00.000Z", "price": 129.25, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-17T04:00:00.000Z", "price": 127.4, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-17T07:00:00.000Z", "price": 127.5, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-18T02:00:00.000Z", "price": 128.25, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-18T03:00:00.000Z", "price": 128.39, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-18T04:00:00.000Z", "price": 125.16, "stock": "AAPL" }
+{"index":{}}
+{ "@timestamp": "2023-04-18T07:00:00.000Z", "price": 125.9, "stock": "AAPL" }

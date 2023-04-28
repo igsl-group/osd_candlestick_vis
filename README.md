@@ -14,7 +14,7 @@ bin/opensearch-dashboards-plugin install https://github.com/igsl-group/osd_candl
 
 By running this command, a new visualization `Candlestick Chart` will be available when using the Visualize module in OpenSearch Dashboards.
 
-![Candlestick Chart visualisation](./images/visualize_candlestick.PNG)
+![Candlestick Chart visualisation](./images/visualize_candlestick.png)
 
 ## Usage
 
@@ -29,7 +29,7 @@ Below demonstrates the steps to create a Candlestick chart.
   6. Adjust the time filter on the top right section 
   7. Click `Update`
 
-![Candlestick Chart sample](./images/candlestick_sample.PNG)
+![Candlestick Chart sample](./images/candlestick_sample.png)
 
 ## Testing
 
@@ -38,11 +38,13 @@ Below demonstrates the steps to create a Candlestick chart.
 To perform integration test on this plugin, please follows the below steps.
 
 1. Update the Opensearch Dashboards context url in below configuration in `cypress.config.ts`
-`
+```
 e2e: {
     baseUrl: 'http://192.168.56.1:5603/tjh',
   }
-`
+```
 
 2. Run the below command in project root directory
-`yarn run cypress:open`
+```
+yarn run cypress:open
+```

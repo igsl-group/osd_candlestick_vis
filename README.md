@@ -1,15 +1,15 @@
 # Candlestick Chart
 
-An OpenSearch Dashboards visulization plugin that provides the capability for creating Candlestick chart and is powered by plotly.js. Candlestick chart can be used to visualize the price movement of security, derivative, or stock over a period of time. By analysing the price pattern in the past, it helps traders to forcast the price value in the future.
+An OpenSearch Dashboards visulization plugin that provides the capability for creating Candlestick chart and is powered by `plotly.js`. Candlestick chart can be used to visualize the price movement of security, derivative, or stock over a period of time. By analysing the price pattern in the past, it helps traders to forcast the price value in the future.
 
 ---
 
 ## Installation
 
-The installation command is given for version `2.6.0`:
+The installation command is given for version `2.6.0.0`:
 
 ```sh
-bin/opensearch-dashboards-plugin install https://github.com/igsl-group/osd_candlestick_vis/releases/download/2.6.0/candlestick_vis-2.6.0.zip
+bin/opensearch-dashboards-plugin install https://github.com/igsl-group/osd_candlestick_vis/releases/download/2.6.0.0/candlestickChart-2.6.0.zip
 ```
 
 By running this command, a new visualization `Candlestick Chart` will be available when using the Visualize module in OpenSearch Dashboards.

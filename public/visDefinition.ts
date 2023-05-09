@@ -157,6 +157,16 @@ const retriVisRespHandler =
             return responseData;
         };
 
+const encodeSvgIcon = () => {
+    const svgCode = `<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M13 13.5H1" stroke="#017D73"/>
+    <path d="M0.53125 13.5H0.90625" stroke="#017D73" stroke-linecap="round"/>
+    <path d="M12.9375 13.5H13.4375" stroke="#017D73" stroke-linecap="round"/>
+    <path d="M2 5H3.5V10H2M2 5H0.5V10H2M2 5V3M2 10V12M7 2H8.5V9.5H7M7 2H5.5V9.5H7M7 2V0M7 9.5V11.5M12 3V2M12 8H10.5V3.5H13.5V8H12ZM12 8V9.5" stroke="#017D73"/>
+    </svg>`;
+
+    return encodeURIComponent(svgCode);
+};
 
 export function retriVisDefinition(dependencies: CandlestickVisDependencies) {
     const visReqHandler = retriVisReqHandler(dependencies);
@@ -176,7 +186,7 @@ export function retriVisDefinition(dependencies: CandlestickVisDependencies) {
     return {
         name: 'candlestick_chart_vis',
         title: 'Candlestick Chart',
-        icon: 'visVega',
+        image: 'data:image/svg+xml,' + encodeSvgIcon(),
         description: 'This visualization allows you to create a Candlestick chart',
         visConfig: {
             component: CandlestickChart,

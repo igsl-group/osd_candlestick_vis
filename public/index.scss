@@ -7,3 +7,23 @@
     pointer-events: auto;
     filter: none;
 }
+
+button.visNewVisDialog__type[aria-describedby=visTypeDescription-candlestick_chart_vis] img {
+    @extend .euiIcon;
+    @extend .euiIcon--large;
+}
+
+.euiIcon {
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    display: inline-block;
+    vertical-align: middle;
+    fill: currentColor;
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+}
+
+.euiIcon--large {
+    width: 24px;
+    height: 24px;
+}
